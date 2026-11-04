@@ -1,0 +1,18 @@
+Asunto: Postulación Remota – Analista IT / Soporte Técnico / Ciberseguridad – Alejandro Ahmad
+
+Estimado equipo de selección:
+
+Les escribo para presentar mi postulación a posiciones 100% remotas en Soporte Técnico Especializado, Análisis de Datos / OSINT o Ciberseguridad Trainee/Junior.
+
+Cuento con un entorno operativo CLI autónomo (Linux/Termux), enfocado en automatización de procesos mediante Python, gestión de bases de datos relacionales (SQL), administración de redes y auditoría de sistemas.
+
+Pueden consultar la estructura de mi trabajo, scripts de automatización y documentación técnica en mi repositorio de GitHub:
+
+🔗 https://github.com/ahmadale6166-png/bunker_postulaciones
+
+Adjunto mi CV actualizado. Quedo a disposición para coordinar una entrevista o evaluación técnica remota.
+
+Atentamente,
+Alejandro Ahmad
+📧 ahmadale6166@gmail.com
+📱 +54 221 655-5356
