@@ -1,18 +1,18 @@
-Asunto: Postulación Remota – Analista IT / Soporte Técnico / Ciberseguridad – Alejandro Ahmad
+Asunto: Postulación – Soporte Técnico y Automatización / Linux & Python – Alejandro Ahmad
 
-Estimado equipo de selección:
+Estimado equipo de Selección de TANCRA Systems,
 
-Les escribo para presentar mi postulación a posiciones 100% remotas en Soporte Técnico Especializado, Análisis de Datos / OSINT o Ciberseguridad Trainee/Junior.
+Me pongo en contacto con ustedes para presentar mi postulación a la búsqueda de Soporte Técnico y Automatización. Como autodidacta apasionado por la tecnología y la infraestructura IT, he desarrollado un sólido perfil técnico enfocado en la resolución de problemas (troubleshooting), la administración de entornos Linux y la automatización mediante scripting.
 
-Cuento con un entorno operativo CLI autónomo (Linux/Termux), enfocado en automatización de procesos mediante Python, gestión de bases de datos relacionales (SQL), administración de redes y auditoría de sistemas.
+Para optimizar mis operaciones y flujos de desarrollo, construí y administro un entorno operativo propio gestionado íntegramente desde consola (Bash y Python 3), automatizando tareas y despliegues locales. Mi enfoque combina la atención a incidentes de soporte técnico con la capacidad de desarrollar herramientas a medida para reducir tiempos de respuesta y minimizar errores operativos.
 
-Pueden consultar la estructura de mi trabajo, scripts de automatización y documentación técnica en mi repositorio de GitHub:
+Pueden conocer más sobre mi metodología de trabajo, mi CV actualizado y mis proyectos de automatización en mi repositorio público:
+👉 https://github.com/ahmadale6166-png/bunker_postulaciones
 
-🔗 https://github.com/ahmadale6166-png/bunker_postulaciones
-
-Adjunto mi CV actualizado. Quedo a disposición para coordinar una entrevista o evaluación técnica remota.
+Agradezco su tiempo en la lectura de esta propuesta y quedo a su total disposición para una entrevista técnica y conversar sobre cómo puedo aportar valor a su equipo de soporte y automatización.
 
 Atentamente,
+
 Alejandro Ahmad
-📧 ahmadale6166@gmail.com
-📱 +54 221 655-5356
+GitHub: https://github.com/ahmadale6166-png/bunker_postulaciones
+Email: ahmadale6166@gmail.com
